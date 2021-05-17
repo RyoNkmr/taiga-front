@@ -3,6 +3,7 @@
 ## 6.1.1 (unreleased)
 
 - Add support to checklists in markdown editor
+- Move card options, assign, edit a delete card to a menu.
 
 ## 6.1.0 (2021-05-04)
 
